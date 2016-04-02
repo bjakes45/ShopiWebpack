@@ -1,0 +1,70 @@
+#app {
+	font-family: courier,courier,monospace;
+}
+.logo {
+	margin: -10px;
+}
+.pic {
+	background-image: "./images/vintage-female-md.png"
+}
+.home {
+	height: 100%;
+	margin-bottom: 15%;
+}
+.Signup {
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-top: auto;
+}
+.display {
+	height: 80%;
+	margin-bottom: 15%;
+}
+.leftdisplay {
+	height: 100%;
+}
+.page {
+	padding-top: 70px;
+	padding-bottom: 70px;
+	height: 100%;
+}
+.SearchBar {
+	margin-top: 12px;
+}
+.SearchBtn {
+	margin-top: -3px;
+}
+.topbar {
+	margin: 5px;
+}
+.map {
+	margin-bottom: 10px;
+}
+.sidebar {
+	list-style: none;
+}
+.sidebar li {
+	margin: 5px;
+	padding: 5px;
+	border-width: 1px;
+	border-radius: 2px;
+}
+.SideOption {
+	background-color: #333333;
+	color: #ffffff;
+}
+.SideOption:hover{
+	background-color: #cccccc;
+	color: #000000;
+}
+.btn-heart{
+	background-color: #fb9ac4;
+}
+.FilterBox {
+	margin-top: 20px;
+}
+.FilterBox option a {
+	background-color: #fdff00;
+}
